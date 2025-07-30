@@ -50,17 +50,7 @@ const abhishek = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumawat-47&theme=high-contrast&hide_border=true&custom_title=My%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
-```mermaid
-graph TD
-    A[🎓 BTech Student] --> B[💻 MERN Stack Mastery]
-    B --> C[🤖 AI/ML Integration]
-    C --> D[🏢 Full-Stack Projects]
-    D --> E[🌍 Open Source Contributions]
-    
-    B --> F[📱 Mobile Development]
-    F --> G[🎮 Creative Projects]
-    G --> H[🚀 Innovation]
-```
+
 
 ## 🎊 **GitHub Achievements** - My Digital Trophies
 
