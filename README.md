@@ -1,7 +1,7 @@
 # 🎮 Welcome to My Digital Universe! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Hey%2C+I'm+Abhishek!;💻+MERN+Stack+Developer;🧠+Algorithm+Enthusiast;🎯+Problem+Solver;🌟+Digital+Innovator;🔥+Building+The+Future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Hey%2C+I'm+Abhishek!;💻+Full+Stack+Developer;🧠+Algorithm+Enthusiast;🎯+Problem+Solver;🌟+Digital+Innovator;🔥+Building+The+Future!;🌟+App+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,7 +25,6 @@ const abhishek = {
   dailyRitual: ["💻 Code", "🧠 Algorithms", "🔄 Repeat"],
   superpower: "Turning ideas into scalable applications",
   motto: "Code is poetry, bugs are just plot twists! 🎭",
-  funFact: "I debug code faster than I debug my life decisions 😅"
 };
 ```
 
