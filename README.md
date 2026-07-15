@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,socketio,redux,mongodb,postgres,prisma,python,pytorch,tensorflow,docker,git,tailwind,vercel,figma&perline=10" alt="stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,redux,mongodb,postgres,prisma,python,pytorch,tensorflow,docker,git,tailwind,vercel,figma&perline=9" alt="stack" />
 
 </div>
 
@@ -74,6 +74,6 @@ abhishek@kumawat:~$ exit
 
 <img src="./sign.svg" width="330" alt="Abhishek Kumawat" />
 
-<sub><code>~ crafted in ember & code · every pixel is a signature ~</code></sub>
+<sub><code>~ crafted in ember & code · every pixel is my signature ~</code></sub>
 
 </div>
