@@ -1,38 +1,70 @@
 <div align="center">
 
-<!-- ░░ HERO — the signature writes itself inside an advanced terminal ░░ -->
+<!-- ░░ HERO — the signature writes itself inside the terminal ░░ -->
 <img src="./signature.svg" width="820" alt="Abhishek Kumawat" />
 
-<br/><br/>
+<br/>
 
-<!-- ░░ live shell — reliable, ember-themed ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=E8542E&center=true&vCenter=true&width=680&height=40&lines=%3E+full-stack+engineer%2C+building+for+scale;%3E+i+compile+caffeine+into+shipped+products;%3E+real-time+systems+%C2%B7+AI%2FML+%C2%B7+clean+architecture;%3E+IIT+Patna+%C2%B7+always+building" alt="what I do" />
+<!-- ░░ live shell ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=2EA043&center=true&vCenter=true&width=720&height=40&lines=%3E+full-stack+%2B+AI+engineer;%3E+real-time+systems+that+stay+up+under+load;%3E+AI+features+that+ship%2C+not+just+demo;%3E+B.Tech+%40+IIT+Patna" alt="Full-stack + AI engineer building real-time systems and AI products" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhishekkumawat-47&color=E8542E&style=flat-square&label=CONNECTIONS" alt="views" />
-<img src="https://img.shields.io/github/followers/abhishekkumawat-47?style=flat-square&color=E8542E&labelColor=0D0B0A&label=FOLLOWERS" alt="followers" />
+<a href="https://github.com/abhishekkumawat-47?tab=followers"><img src="https://img.shields.io/github/followers/abhishekkumawat-47?style=flat-square&color=2EA043&labelColor=161B22&label=followers" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=abhishekkumawat-47&color=2EA043&style=flat-square&label=profile+views" alt="profile views" />
 
 </div>
 
 <br/>
 
-<!-- ░░ ABOUT / neofetch — advanced terminal panel ░░ -->
+<!-- ░░ WHOAMI — animated terminal panel ░░ -->
 <div align="center">
-<img src="./system.svg" width="820" alt="whoami — Abhishek Kumawat" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg" />
+  <img src="./about-dark.svg" width="820" alt="whoami: Full-stack + AI engineer, B.Tech at IIT Patna. Real-time systems, AI/ML, scale." />
+</picture>
 </div>
 
 <br/>
 
-<div align="center"><code>abhishek@kumawat ❯ ls ~/stack --impactful</code></div>
+<div align="center"><code>abhishek@kumawat ❯ ls ~/stack --by-layer</code></div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,redux,mongodb,postgres,prisma,python,pytorch,tensorflow,docker,git,tailwind,vercel,figma&perline=9" alt="stack" />
-
+<table>
+  <tr>
+    <td align="right"><code>frontend</code></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,figma&theme=light" /><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,figma&theme=dark" height="40" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, Figma" /></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><code>backend</code></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=light" /><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" height="40" alt="Node.js, Express, MongoDB, PostgreSQL, Prisma" /></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><code>ai / ml</code></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=light" /><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="40" alt="Python, PyTorch, TensorFlow" /></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><code>ship</code></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,vercel&theme=light" /><img src="https://skillicons.dev/icons?i=docker,git,vercel&theme=dark" height="40" alt="Docker, Git, Vercel" /></picture></td>
+  </tr>
+</table>
 </div>
+
+<!-- ░░ SELECTED WORK — uncomment and fill in 2–4 of your best repos ░░
+<br/>
+
+<div align="center"><code>abhishek@kumawat ❯ ls ~/projects --pinned</code></div>
+
+<br/>
+
+| project | what it does | built with |
+|:--|:--|:--|
+| [**repo-name**](https://github.com/abhishekkumawat-47/repo-name) | one line on the problem it solves and a result | Next.js · Node · MongoDB |
+| [**repo-name**](https://github.com/abhishekkumawat-47/repo-name) | one line on the problem it solves and a result | Python · PyTorch |
+-->
 
 <br/>
 
@@ -42,9 +74,20 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=abhishekkumawat-47&hide_border=true&background=0D0B0A&stroke=241B16&ring=E8542E&fire=FF7A45&currStreakNum=FFFFFF&currStreakLabel=E8542E&sideNums=D6C3B8&sideLabels=8A8A8A&dates=6B5B52&titleColor=FF7A45" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhishekkumawat-47&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=F0F6FC&currStreakLabel=39D353&sideNums=F0F6FC&sideLabels=7D8590&dates=7D8590" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=abhishekkumawat-47&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=216E39&fire=30A14E&currStreakNum=1F2328&currStreakLabel=1A7F37&sideNums=1F2328&sideLabels=656D76&dates=656D76" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=abhishekkumawat-47&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=F0F6FC&currStreakLabel=39D353&sideNums=F0F6FC&sideLabels=7D8590&dates=7D8590" alt="GitHub streak stats" />
+</picture>
 
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumawat-47&bg_color=0D0B0A&color=FF7A45&line=E8542E&point=FFB07A&area=true&area_color=E8542E&hide_border=true&custom_title=Contribution%20Signature&title_color=E8542E" alt="contribution graph" />
+<br/><br/>
+
+<!-- generated by .github/workflows/snake.yml — appears after the first workflow run -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkumawat-47/abhishekkumawat-47/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekkumawat-47/abhishekkumawat-47/output/snake-light.svg" />
+  <img width="820" src="https://raw.githubusercontent.com/abhishekkumawat-47/abhishekkumawat-47/output/snake-dark.svg" alt="contribution graph being eaten by a snake" />
+</picture>
 
 </div>
 
@@ -56,15 +99,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-kumawat-7b90a6292/"><img src="https://img.shields.io/badge/LinkedIn-connect-E8542E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B0A" height="34" alt="linkedin" /></a>
-<a href="https://github.com/abhishekkumawat-47"><img src="https://img.shields.io/badge/GitHub-follow-FF7A45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B0A" height="34" alt="github" /></a>
-<a href="mailto:abhishekkumawat1008@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-E8542E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0B0A" height="34" alt="email" /></a>
+<a href="https://www.linkedin.com/in/abhishek-kumawat-7b90a6292/"><img src="https://img.shields.io/badge/LinkedIn-connect-2EA043?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" height="32" alt="LinkedIn" /></a>
+<a href="https://github.com/abhishekkumawat-47"><img src="https://img.shields.io/badge/GitHub-follow-2EA043?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" height="32" alt="GitHub" /></a>
+<a href="mailto:abhishekkumawat1008@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-2EA043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" height="32" alt="Email" /></a>
 
 </div>
 
 <br/>
 
-<!-- ░░ SIGN-OFF — the document, signed in the same hand ░░ -->
+<!-- ░░ SIGN-OFF — signed in the same hand ░░ -->
 <div align="center">
 
 ```console
@@ -74,6 +117,6 @@ abhishek@kumawat:~$ exit
 
 <img src="./sign.svg" width="330" alt="Abhishek Kumawat" />
 
-<sub><code>~ crafted in ember & code · every pixel is my signature ~</code></sub>
+<sub><code>~ crafted in green squares & code · every pixel is my signature ~</code></sub>
 
 </div>
