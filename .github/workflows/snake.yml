@@ -15,12 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate ember snake from contribution graph
+      - name: generate snakes from the contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-ember.svg?palette=github-dark&color_snake=#FF7A45&color_dots=#1A1411,#4A1D0F,#8A3316,#C9461F,#E8542E
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
 
       - name: push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
