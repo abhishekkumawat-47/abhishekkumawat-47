@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- ░░ HERO — the signature writes itself inside the terminal ░░ -->
-<img src="./signature.svg" width="820" alt="Abhishek Kumawat" />
+<!-- hero: signed commit -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./signature-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./signature-light.svg" />
+  <img src="./signature-dark.svg" width="820" alt="Abhishek Kumawat" />
+</picture>
 
 <br/>
 
@@ -115,7 +119,11 @@ abhishek@kumawat:~$ exit
 [ session closed ] — now go build something unforgettable.
 ```
 
-<img src="./sign.svg" width="330" alt="Abhishek Kumawat" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./sign-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./sign-light.svg" />
+  <img src="./sign-dark.svg" width="330" alt="Abhishek Kumawat" />
+</picture>
 
 <sub><code>~ crafted in green squares & code · every pixel is my signature ~</code></sub>
 
